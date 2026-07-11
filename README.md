@@ -38,16 +38,16 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baka-atul&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=baka-atul&margin-w=15&v=1" alt="Trophies" />
   </a> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baka-atul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baka-atul&show_icons=true&locale=en&layout=compact&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baka-atul&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baka-atul&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
 </p>
 
 <p align="center">
