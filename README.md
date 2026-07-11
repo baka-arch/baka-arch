@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atul</h1>
+<h1 align="center">Hi 👋, I'm BAKA</h1>
 <h3 align="center">A passionate Engineer from India wanting to explore tech</h3>
 
 <p align="center">
