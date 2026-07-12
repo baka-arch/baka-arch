@@ -43,11 +43,11 @@
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-three-virid.vercel.app/api/top-langs?username=baka-arch&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-steel.vercel.app/api/top-langs?username=baka-arch&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-three-virid.vercel.app/api?username=baka-arch&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-frontend-steel.vercel.app/api?username=baka-arch&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
