@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=45&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+BAKA" alt="Hi, I'm BAKA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=45&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+BAKA" alt="Hi, I'm BAKA" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=300&lines=>_+I+use+Arch+btw+🐧" alt="I use Arch btw" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=300&lines=%3E_+I+use+Arch+btw+%F0%9F%90%A7" alt="I use Arch btw" />
 </p>
 
 <h3 align="center">A passionate Engineer from India wanting to explore tech</h3>
