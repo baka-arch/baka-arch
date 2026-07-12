@@ -38,16 +38,17 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baka-atul&margin-w=15&v=1" alt="Trophies" />
+    <!-- Note: If you want to fix the trophies, you will need to repeat this Vercel deployment process for the github-profile-trophy repository -->
+    <img src="https://github-profile-trophy.vercel.app/?username=baka-atul&margin-w=15" alt="Trophies" />
   </a> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baka-atul&show_icons=true&locale=en&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://my-github-stats-three-virid.vercel.app/api/top-langs?username=baka-atul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baka-atul&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
+  <img src="https://my-github-stats-three-virid.vercel.app/api?username=baka-atul&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
