@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm BAKA</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=45&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+BAKA" alt="Hi, I'm BAKA" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=300&lines=>_+I+use+Arch+btw+🐧" alt="I use Arch btw" />
+</p>
+
 <h3 align="center">A passionate Engineer from India wanting to explore tech</h3>
 
 <p align="center">
@@ -38,6 +45,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- Trophies link preserved here for when you decide to deploy the private server later -->
     <img src="https://github-profile-trophy.vercel.app/?username=baka-arch&margin-w=15" alt="Trophies" />
   </a> 
 </p>
