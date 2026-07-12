@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Engineer from India wanting to explore tech</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baka-atul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=baka-arch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"> 
@@ -38,19 +38,18 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Note: If you want to fix the trophies, you will need to repeat this Vercel deployment process for the github-profile-trophy repository -->
-    <img src="https://github-profile-trophy.vercel.app/?username=baka-atul&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=baka-arch&margin-w=15" alt="Trophies" />
   </a> 
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-three-virid.vercel.app/api/top-langs?username=baka-atul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://my-github-stats-three-virid.vercel.app/api/top-langs?username=baka-arch&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-three-virid.vercel.app/api?username=baka-atul&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://my-github-stats-three-virid.vercel.app/api?username=baka-arch&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baka-atul" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baka-arch" alt="GitHub Streak" />
 </p>
